@@ -91,13 +91,5 @@ The project is running now.
 **Traffic Sign Recognition :**  CNN
 
 
-## Authors
-
-- Vivek Pandey(B.Tech. IT-2022 - 1900520139006)
-- Tehreem Arshad (B.Tech. IT-2022 - 1900520139005)
-- Srishti Kashyap(B.Tech. IT-2022 - 1900520139004)
-
-
-
 
 
