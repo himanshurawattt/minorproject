@@ -13,8 +13,7 @@ autonomous driving systems. There are so many road accidents also due to mis-int
 human due to fatigue, bad weather or any other human limitations. To dodge this, we have tried to
 implement an open source software which recognises traffic signals. 
 
-Our final year project, done under the guidance of Prof. Vineet Kansal and 
-Dr. Aditi Sharma is based on the Traffic sign Recognition. 
+
 We have created an application which uses CNN for detecting and classifying traffic signal using OpenCV.
 
 This project acts as an sign detector which opens up the camera of the system installed 
